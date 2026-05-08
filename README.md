@@ -25,7 +25,7 @@
 
 I'm a cloud-focused IT professional based in Mississippi with a background spanning **AWS data center operations**, **Army IT leadership**, and **state government infrastructure management**. I'm transitioning deeper into cloud engineering with a focus on **security, infrastructure as code, and DevSecOps**.
 
-Currently pursuing an **M.S. in Computer Science at Jackson State University** (expected Dec 2027), building on my B.S. in CS and years of hands-on infrastructure work.
+Currently pursuing an **M.S. in Computer Science at Jackson State University** (expected Dec 2026), building on my B.S. in CS and years of hands-on infrastructure work.
 
 - 🔭 Currently: **Data Center Facility Operations Specialist @ AWS** + **255A Warrant Officer @ Army National Guard**
 - 🌱 Learning: Terraform · Kubernetes · Python/boto3 · AWS Solutions Architect
